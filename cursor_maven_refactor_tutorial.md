@@ -10,7 +10,7 @@ We’ll explore a real-world example using [MehrabRahman/JavaServer](https://git
 
 ---
 
-## 🧩 Part 1: Import and Explore the Codebase with Cursor AI
+## Part 1: Import and Explore the Codebase with Cursor AI
 
 ### 1.1 Clone the Project
 
